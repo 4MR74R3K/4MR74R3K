@@ -26,6 +26,6 @@ and ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&lo
 <a href="https://instagram.com/amrtarek"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="21px"/></a>
 
 </br>
-<p>- 💬 If you have any question/feedback, please do not reach out to me @ <a href="mailto:i4mr74r3k@icloud.com"> i4MR74R3K@icloud.com </a>!
+<p>- 💬 If you have any question/feedback, please reach out to me @ <a href="mailto:i4mr74r3k@icloud.com"> i4MR74R3K@icloud.com </a>!
 </p>
 
