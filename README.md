@@ -1,9 +1,21 @@
 ## Hello World!
 
-# You've reached Amr, a Software Developer at bawq
+<div id="badges" align="center">
+  <a href="http://linkedin.com/4mr">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="http://twitter.com/4MR74R3K">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="http://instagram.com/amrtarek">
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+ 
+![](https://komarev.com/ghpvc/?username=4mr74r3k&label=PROFILE+VIEWS)
 
-I speak zeroes and ones.
-
+ <p> You've reached Amr, a Software Developer at bawq </p>
+ <p> I speak zeroes and ones. </p>
+ 
 
 ## 🌱 I'm currently
 
@@ -18,14 +30,14 @@ I speak zeroes and ones.
 and ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) (Obviously)
 
 
-
-
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/4mr/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="21px"/></a>
-<a href="https://instagram.com/amrtarek"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="21px"/></a>
-
 </br>
 <p>- 💬 If you have any question/feedback, please reach out to me @ <a href="mailto:i4mr74r3k@icloud.com"> i4MR74R3K@icloud.com </a>!
 </p>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4mr74r3k&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+
 
