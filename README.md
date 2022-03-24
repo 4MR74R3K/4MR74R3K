@@ -35,7 +35,7 @@ and
 
 
 </br>
-<p>- 💬 If you have any question/feedback, please reach out to me @ <a href="mailto:i4mr74r3k@icloud.com"> i4MR74R3K@icloud.com </a>!
+<p>- 💬 If you have any question/feedback, please reach out to me @ <a href="mailto:contact@amrtarek.com"> contact@amrtarek.com </a>!
 </p>
 
 
