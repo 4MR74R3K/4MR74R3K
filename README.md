@@ -13,14 +13,13 @@
  
 ![](https://komarev.com/ghpvc/?username=4mr74r3k&label=PROFILE+VIEWS)
 
- <p> You've reached Amr, a Software Developer at bawq </p>
- <p> I speak zeroes and ones. </p>
+ <p> You've reached Amr, a Software Engineer at Xpovi </p>
  
 
 ## 🌱 I'm currently
 
-- Learning advanced MongoDB
-- Working on a big project to be launched at bawq.
+- Learning advanced MongoDB Topics
+- Working on a big project to be launched at Xpovi.
 
 
 
