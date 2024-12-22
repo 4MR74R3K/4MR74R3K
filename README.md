@@ -4,12 +4,6 @@
   <a href="http://linkedin.com/4mr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="http://twitter.com/4MR74R3K">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-   <a href="http://instagram.com/amrtarek">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
-  </a>
  
 ![](https://komarev.com/ghpvc/?username=4mr74r3k&label=PROFILE+VIEWS)
 
