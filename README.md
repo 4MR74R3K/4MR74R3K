@@ -1,7 +1,7 @@
 ## Hello World!
 
 <div id="badges" align="center">
-  <a href="http://linkedin.com/4mr">
+  <a href="http://linkedin.com/in/4mr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
